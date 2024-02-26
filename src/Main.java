@@ -44,7 +44,7 @@ public class Main {
 *create a repo on git hub
 * for github {
 * add origen statement => git remote add origin (URL from git hub)=>git@github.com:adythaps/Bank-App.git
-*git push-u origin master
+*git push -u origin master
 * }
 *
 * to new repository {
