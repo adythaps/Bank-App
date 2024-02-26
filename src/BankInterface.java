@@ -3,4 +3,5 @@ public interface BankInterface {
     String addMoney(int amt);
     String WithdrawMoney(int amt, String Pass);
     double calculateInterest(int years);
+
 }

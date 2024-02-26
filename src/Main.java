@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class Main {
+    public void add_user(){
+
+    }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your name, password, ball");
@@ -28,3 +31,25 @@ public class Main {
         System.out.println("hi there");
     }
 }
+
+/*for local git {
+*   git init
+*   git status
+*   git add .
+*   git add filename
+*   git commit -m "message"
+*   git log (to see commits)
+*   git checkout (commit id) to go back to old version
+* }
+*create a repo on git hub
+* for github {
+* add origen statement => git remote add origin (URL from git hub)=>git@github.com:adythaps/Bank-App.git
+*git push-u origin master
+* }
+*
+* to new repository {
+* git remote set-url origin git@github.com:adythaps/polimorph.git
+*then=> git push -u origin master
+*
+* }
+* */
